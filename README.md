@@ -1,3 +1,4 @@
+![logo](https://github.com/avipingale/avipingale/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Avinash Pravin Pingale</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
